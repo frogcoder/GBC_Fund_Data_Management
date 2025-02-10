@@ -1,0 +1,50 @@
+state_code,region_code,state_name
+CA,W,California
+NY,E,New York
+TX,C,Texas
+PA,E,Pennsylvania
+WA,W,Washington
+IL,C,Illinois
+OH,E,Ohio
+FL,S,Florida
+MI,C,Michigan
+NC,S,North Carolina
+VA,S,Virginia
+AZ,W,Arizona
+GA,S,Georgia
+TN,S,Tennessee
+CO,W,Colorado
+IN,C,Indiana
+KY,S,Kentucky
+MA,E,Massachusetts
+NJ,E,New Jersey
+OR,W,Oregon
+WI,C,Wisconsin
+MD,E,Maryland
+DE,E,Delaware
+MN,C,Minnesota
+CT,E,Connecticut
+OK,C,Oklahoma
+MO,C,Missouri
+AL,S,Alabama
+AR,S,Arkansas
+RI,E,Rhode Island
+UT,W,Utah
+MS,S,Mississippi
+LA,S,Louisiana
+SC,S,South Carolina
+NV,W,Nevada
+NE,C,Nebraska
+NM,W,New Mexico
+IA,C,Iowa
+NH,E,New Hampshire
+KS,C,Kansas
+ID,W,Idaho
+MT,W,Montana
+SD,C,South Dakota
+VT,E,Vermont
+DC,E,District of Columbia
+ME,E,Maine
+ND,C,North Dakota
+WV,E,West Virginia
+WY,W,Wyoming

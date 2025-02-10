@@ -1,0 +1,605 @@
+city_id,state_code,city_name
+1,AL,Auburn
+2,AL,Decatur
+3,AL,Florence
+4,AL,Hoover
+5,AL,Huntsville
+6,AL,Mobile
+7,AL,Montgomery
+8,AL,Tuscaloosa
+9,AR,Conway
+10,AR,Fayetteville
+11,AR,Hot Springs
+12,AR,Jonesboro
+13,AR,Little Rock
+14,AR,Pine Bluff
+15,AR,Rogers
+16,AR,Springdale
+17,AR,Texarkana
+18,AZ,Avondale
+19,AZ,Bullhead City
+20,AZ,Chandler
+21,AZ,Gilbert
+22,AZ,Glendale
+23,AZ,Mesa
+24,AZ,Peoria
+25,AZ,Phoenix
+26,AZ,Scottsdale
+27,AZ,Sierra Vista
+28,AZ,Tempe
+29,AZ,Tucson
+30,AZ,Yuma
+31,CA,Anaheim
+32,CA,Antioch
+33,CA,Apple Valley
+34,CA,Bakersfield
+35,CA,Brentwood
+36,CA,Burbank
+37,CA,Camarillo
+38,CA,Chico
+39,CA,Chula Vista
+40,CA,Citrus Heights
+41,CA,Coachella
+42,CA,Concord
+43,CA,Costa Mesa
+44,CA,Danville
+45,CA,Davis
+46,CA,Dublin
+47,CA,El Cajon
+48,CA,Encinitas
+49,CA,Escondido
+50,CA,Fairfield
+51,CA,Fresno
+52,CA,Hesperia
+53,CA,Huntington Beach
+54,CA,Inglewood
+55,CA,La Mesa
+56,CA,La Quinta
+57,CA,Laguna Niguel
+58,CA,Lake Elsinore
+59,CA,Lake Forest
+60,CA,Lakewood
+61,CA,Lancaster
+62,CA,Lodi
+63,CA,Long Beach
+64,CA,Los Angeles
+65,CA,Manteca
+66,CA,Mission Viejo
+67,CA,Modesto
+68,CA,Montebello
+69,CA,Moreno Valley
+70,CA,Morgan Hill
+71,CA,Murrieta
+72,CA,Oakland
+73,CA,Oceanside
+74,CA,Ontario
+75,CA,Oxnard
+76,CA,Pasadena
+77,CA,Pico Rivera
+78,CA,Pomona
+79,CA,Rancho Cucamonga
+80,CA,Redding
+81,CA,Redlands
+82,CA,Redondo Beach
+83,CA,Redwood City
+84,CA,Riverside
+85,CA,Roseville
+86,CA,Sacramento
+87,CA,Salinas
+88,CA,San Bernardino
+89,CA,San Clemente
+90,CA,San Diego
+91,CA,San Francisco
+92,CA,San Gabriel
+93,CA,San Jose
+94,CA,San Luis Obispo
+95,CA,San Mateo
+96,CA,Santa Ana
+97,CA,Santa Barbara
+98,CA,Santa Clara
+99,CA,Santa Maria
+100,CA,Stockton
+101,CA,Sunnyvale
+102,CA,Temecula
+103,CA,Thousand Oaks
+104,CA,Torrance
+105,CA,Vacaville
+106,CA,Vallejo
+107,CA,Visalia
+108,CA,Westminster
+109,CA,Whittier
+110,CA,Woodland
+111,CA,Yucaipa
+112,CO,Arvada
+113,CO,Aurora
+114,CO,Broomfield
+115,CO,Colorado Springs
+116,CO,Commerce City
+117,CO,Denver
+118,CO,Englewood
+119,CO,Fort Collins
+120,CO,Greeley
+121,CO,Littleton
+122,CO,Longmont
+123,CO,Louisville
+124,CO,Loveland
+125,CO,Parker
+126,CO,Pueblo
+127,CO,Thornton
+128,CT,Bristol
+129,CT,Danbury
+130,CT,Fairfield
+131,CT,Manchester
+132,CT,Meriden
+133,CT,Middletown
+134,CT,Milford
+135,CT,Norwich
+136,CT,Shelton
+137,CT,Waterbury
+138,DC,Washington
+139,DE,Dover
+140,DE,Newark
+141,DE,Wilmington
+142,FL,Apopka
+143,FL,Boca Raton
+144,FL,Boynton Beach
+145,FL,Coral Gables
+146,FL,Coral Springs
+147,FL,Daytona Beach
+148,FL,Delray Beach
+149,FL,Deltona
+150,FL,Fort Lauderdale
+151,FL,Hialeah
+152,FL,Hollywood
+153,FL,Homestead
+154,FL,Jacksonville
+155,FL,Jupiter
+156,FL,Kissimmee
+157,FL,Lakeland
+158,FL,Margate
+159,FL,Melbourne
+160,FL,Miami
+161,FL,Miramar
+162,FL,North Miami
+163,FL,Orlando
+164,FL,Ormond Beach
+165,FL,Palm Coast
+166,FL,Pembroke Pines
+167,FL,Pensacola
+168,FL,Plantation
+169,FL,Pompano Beach
+170,FL,Port Orange
+171,FL,Port Saint Lucie
+172,FL,Saint Petersburg
+173,FL,Sanford
+174,FL,Tallahassee
+175,FL,Tamarac
+176,FL,Tampa
+177,FL,West Palm Beach
+178,GA,Athens
+179,GA,Atlanta
+180,GA,Columbus
+181,GA,East Point
+182,GA,Macon
+183,GA,Marietta
+184,GA,Roswell
+185,GA,Sandy Springs
+186,GA,Smyrna
+187,GA,Warner Robins
+188,GA,Woodstock
+189,IA,Burlington
+190,IA,Cedar Rapids
+191,IA,Des Moines
+192,IA,Dubuque
+193,IA,Iowa City
+194,IA,Marion
+195,IA,Urbandale
+196,IA,Waterloo
+197,ID,Boise
+198,ID,Caldwell
+199,ID,Lewiston
+200,ID,Meridian
+201,ID,Pocatello
+202,ID,Twin Falls
+203,IL,Arlington Heights
+204,IL,Aurora
+205,IL,Bloomington
+206,IL,Bolingbrook
+207,IL,Buffalo Grove
+208,IL,Carol Stream
+209,IL,Champaign
+210,IL,Chicago
+211,IL,Danville
+212,IL,Decatur
+213,IL,Des Plaines
+214,IL,Elmhurst
+215,IL,Evanston
+216,IL,Frankfort
+217,IL,Freeport
+218,IL,Glenview
+219,IL,Highland Park
+220,IL,Naperville
+221,IL,Normal
+222,IL,Oak Park
+223,IL,Orland Park
+224,IL,Oswego
+225,IL,Palatine
+226,IL,Park Ridge
+227,IL,Peoria
+228,IL,Quincy
+229,IL,Rockford
+230,IL,Romeoville
+231,IL,Saint Charles
+232,IL,Skokie
+233,IL,Tinley Park
+234,IL,Wheeling
+235,IL,Woodstock
+236,IN,Bloomington
+237,IN,Columbus
+238,IN,Elkhart
+239,IN,Greenwood
+240,IN,Indianapolis
+241,IN,La Porte
+242,IN,Lafayette
+243,IN,Lawrence
+244,IN,Mishawaka
+245,IN,New Albany
+246,IN,New Castle
+247,IN,Noblesville
+248,IN,Portage
+249,IN,Richmond
+250,IN,South Bend
+251,KS,Garden City
+252,KS,Manhattan
+253,KS,Olathe
+254,KS,Overland Park
+255,KS,Wichita
+256,KY,Bowling Green
+257,KY,Florence
+258,KY,Georgetown
+259,KY,Henderson
+260,KY,Louisville
+261,KY,Murray
+262,KY,Owensboro
+263,KY,Richmond
+264,LA,Bossier City
+265,LA,Kenner
+266,LA,Lafayette
+267,LA,Lake Charles
+268,LA,Monroe
+269,MA,Andover
+270,MA,Beverly
+271,MA,Cambridge
+272,MA,Everett
+273,MA,Franklin
+274,MA,Holyoke
+275,MA,Lawrence
+276,MA,Leominster
+277,MA,Lowell
+278,MA,Malden
+279,MA,Marlborough
+280,MA,New Bedford
+281,MA,Quincy
+282,MA,Revere
+283,MD,Baltimore
+284,MD,Clinton
+285,MD,Columbia
+286,MD,Gaithersburg
+287,MD,Hagerstown
+288,MD,Laurel
+289,MD,Rockville
+290,ME,Bangor
+291,ME,Lewiston
+292,MI,Ann Arbor
+293,MI,Canton
+294,MI,Dearborn
+295,MI,Dearborn Heights
+296,MI,Detroit
+297,MI,Grand Rapids
+298,MI,Holland
+299,MI,Jackson
+300,MI,Lansing
+301,MI,Lincoln Park
+302,MI,Midland
+303,MI,Mount Pleasant
+304,MI,Oak Park
+305,MI,Rochester Hills
+306,MI,Roseville
+307,MI,Royal Oak
+308,MI,Saginaw
+309,MI,Sterling Heights
+310,MI,Taylor
+311,MI,Trenton
+312,MI,Westland
+313,MN,Apple Valley
+314,MN,Coon Rapids
+315,MN,Cottage Grove
+316,MN,Eagan
+317,MN,Lakeville
+318,MN,Maple Grove
+319,MN,Minneapolis
+320,MN,Moorhead
+321,MN,Rochester
+322,MN,Roseville
+323,MN,Saint Cloud
+324,MN,Saint Paul
+325,MN,Woodbury
+326,MO,Columbia
+327,MO,Gladstone
+328,MO,Independence
+329,MO,Jefferson City
+330,MO,Kirkwood
+331,MO,Saint Charles
+332,MO,Saint Louis
+333,MO,Saint Peters
+334,MO,Springfield
+335,MS,Gulfport
+336,MS,Hattiesburg
+337,MS,Jackson
+338,MS,Southaven
+339,MT,Billings
+340,MT,Bozeman
+341,MT,Great Falls
+342,MT,Helena
+343,MT,Missoula
+344,NC,Asheville
+345,NC,Burlington
+346,NC,Cary
+347,NC,Chapel Hill
+348,NC,Charlotte
+349,NC,Concord
+350,NC,Durham
+351,NC,Fayetteville
+352,NC,Gastonia
+353,NC,Goldsboro
+354,NC,Greensboro
+355,NC,Greenville
+356,NC,Hickory
+357,NC,Jacksonville
+358,NC,Monroe
+359,NC,Raleigh
+360,NC,Thomasville
+361,NC,Wilmington
+362,NC,Wilson
+363,ND,Fargo
+364,NE,Fremont
+365,NE,Grand Island
+366,NE,Norfolk
+367,NE,Omaha
+368,NH,Concord
+369,NH,Dover
+370,NH,Nashua
+371,NJ,Atlantic City
+372,NJ,Bayonne
+373,NJ,Belleville
+374,NJ,Bridgeton
+375,NJ,Clifton
+376,NJ,East Orange
+377,NJ,Hackensack
+378,NJ,Lakewood
+379,NJ,Linden
+380,NJ,Morristown
+381,NJ,New Brunswick
+382,NJ,Orange
+383,NJ,Passaic
+384,NJ,Paterson
+385,NJ,Perth Amboy
+386,NJ,Plainfield
+387,NJ,Vineland
+388,NJ,Westfield
+389,NM,Albuquerque
+390,NM,Carlsbad
+391,NM,Clovis
+392,NM,Farmington
+393,NM,Las Cruces
+394,NM,Rio Rancho
+395,NM,Santa Fe
+396,NV,Henderson
+397,NV,Las Vegas
+398,NV,North Las Vegas
+399,NV,Reno
+400,NV,Sparks
+401,NY,Auburn
+402,NY,Buffalo
+403,NY,Freeport
+404,NY,Hempstead
+405,NY,Jamestown
+406,NY,Lindenhurst
+407,NY,Long Beach
+408,NY,Mount Vernon
+409,NY,New Rochelle
+410,NY,New York City
+411,NY,Niagara Falls
+412,NY,Oceanside
+413,NY,Rochester
+414,NY,Rome
+415,NY,Troy
+416,NY,Utica
+417,NY,Watertown
+418,NY,Yonkers
+419,OH,Akron
+420,OH,Bowling Green
+421,OH,Cincinnati
+422,OH,Cleveland
+423,OH,Columbus
+424,OH,Cuyahoga Falls
+425,OH,Dublin
+426,OH,Elyria
+427,OH,Fairfield
+428,OH,Grove City
+429,OH,Hamilton
+430,OH,Kent
+431,OH,Lakewood
+432,OH,Lancaster
+433,OH,Lorain
+434,OH,Marion
+435,OH,Mason
+436,OH,Medina
+437,OH,Mentor
+438,OH,Newark
+439,OH,Parma
+440,OH,Springfield
+441,OH,Toledo
+442,OH,Troy
+443,OK,Broken Arrow
+444,OK,Edmond
+445,OK,Lawton
+446,OK,Muskogee
+447,OK,Norman
+448,OK,Oklahoma City
+449,OK,Tulsa
+450,OR,Eugene
+451,OR,Gresham
+452,OR,Hillsboro
+453,OR,Medford
+454,OR,Portland
+455,OR,Redmond
+456,OR,Salem
+457,OR,Springfield
+458,OR,Tigard
+459,PA,Allentown
+460,PA,Altoona
+461,PA,Bethlehem
+462,PA,Chester
+463,PA,Lancaster
+464,PA,Philadelphia
+465,PA,Reading
+466,PA,York
+467,RI,Cranston
+468,RI,Providence
+469,RI,Warwick
+470,RI,Woonsocket
+471,SC,Columbia
+472,SC,Florence
+473,SC,Mount Pleasant
+474,SC,North Charleston
+475,SC,Rock Hill
+476,SC,Summerville
+477,SD,Aberdeen
+478,SD,Rapid City
+479,SD,Sioux Falls
+480,TN,Bartlett
+481,TN,Bristol
+482,TN,Chattanooga
+483,TN,Clarksville
+484,TN,Columbia
+485,TN,Franklin
+486,TN,Hendersonville
+487,TN,Jackson
+488,TN,Johnson City
+489,TN,Knoxville
+490,TN,Lebanon
+491,TN,Memphis
+492,TN,Murfreesboro
+493,TN,Nashville
+494,TN,Smyrna
+495,TX,Abilene
+496,TX,Allen
+497,TX,Amarillo
+498,TX,Arlington
+499,TX,Austin
+500,TX,Baytown
+501,TX,Beaumont
+502,TX,Bedford
+503,TX,Brownsville
+504,TX,Bryan
+505,TX,Carrollton
+506,TX,Cedar Hill
+507,TX,College Station
+508,TX,Conroe
+509,TX,Coppell
+510,TX,Corpus Christi
+511,TX,Dallas
+512,TX,Deer Park
+513,TX,Edinburg
+514,TX,El Paso
+515,TX,Fort Worth
+516,TX,Frisco
+517,TX,Garland
+518,TX,Grand Prairie
+519,TX,Grapevine
+520,TX,Haltom City
+521,TX,Harlingen
+522,TX,Houston
+523,TX,Huntsville
+524,TX,Irving
+525,TX,Keller
+526,TX,La Porte
+527,TX,Laredo
+528,TX,League City
+529,TX,Lubbock
+530,TX,Mansfield
+531,TX,Mcallen
+532,TX,Mesquite
+533,TX,Missouri City
+534,TX,Odessa
+535,TX,Pasadena
+536,TX,Pearland
+537,TX,Pharr
+538,TX,Plano
+539,TX,Port Arthur
+540,TX,Richardson
+541,TX,Round Rock
+542,TX,San Angelo
+543,TX,San Antonio
+544,TX,San Marcos
+545,TX,Texas City
+546,TX,The Colony
+547,TX,Tyler
+548,TX,Waco
+549,UT,Draper
+550,UT,Layton
+551,UT,Lehi
+552,UT,Logan
+553,UT,Murray
+554,UT,Orem
+555,UT,Pleasant Grove
+556,UT,Provo
+557,UT,Salt Lake City
+558,UT,West Jordan
+559,VA,Alexandria
+560,VA,Arlington
+561,VA,Charlottesville
+562,VA,Chesapeake
+563,VA,Hampton
+564,VA,Harrisonburg
+565,VA,Newport News
+566,VA,Richmond
+567,VA,Salem
+568,VA,Springfield
+569,VA,Suffolk
+570,VA,Virginia Beach
+571,VA,Waynesboro
+572,VT,Burlington
+573,WA,Auburn
+574,WA,Bellevue
+575,WA,Bellingham
+576,WA,Covington
+577,WA,Des Moines
+578,WA,Edmonds
+579,WA,Everett
+580,WA,Kent
+581,WA,Longview
+582,WA,Marysville
+583,WA,Olympia
+584,WA,Pasco
+585,WA,Redmond
+586,WA,Renton
+587,WA,Seattle
+588,WA,Spokane
+589,WA,Vancouver
+590,WI,Appleton
+591,WI,Eau Claire
+592,WI,Franklin
+593,WI,Green Bay
+594,WI,Kenosha
+595,WI,La Crosse
+596,WI,Madison
+597,WI,Milwaukee
+598,WI,Sheboygan
+599,WI,Superior
+600,WI,Waukesha
+601,WI,Wausau
+602,WI,West Allis
+603,WV,Wheeling
+604,WY,Cheyenne
