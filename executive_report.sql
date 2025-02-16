@@ -55,9 +55,11 @@ GROUP BY r.region_name,
 SELECT c.region_name, c.state_name,
 	   c.monthly_quantity_sold, c.monthly_profit, c.monthly_revenue,
 	   m.monthly_revenue AS prev_monthly_revenue,
-	   (1 - (c.monthly_revenue/m.monthly_revenue)) AS monthly_revenue_growth,
+	   c.monthly_revenue - m.monthly_revenue AS monthly_revenue_growth,
+	   (c.monthly_revenue - m.monthly_revenue) / m.monthly_revenue AS monthly_revenue_growth_rate,
 	   y.monthly_revenue AS prev_year_monthly_revenue,
-	   (1 - (c.monthly_revenue/y.monthly_revenue)) AS year_over_year_monthy_revenue_growth
+	   c.monthly_revenue - y.monthly_revenue AS year_over_year_monthy_revenue_growth,
+	   (c.monthly_revenue - y.monthly_revenue) / y.monthly_revenue AS year_over_year_monthy_revenue_growth_rate
 FROM report_current_month c
 LEFT JOIN report_prev_month m ON c.region_name=m.region_name AND c.state_name=m.state_name
 LEFT JOIN report_prev_year y on c.region_name=y.region_name AND c.state_name=y.state_name
